@@ -10,6 +10,8 @@ View your app in AI Studio: https://ai.studio/apps/553c1071-fbbf-4311-b0d1-c37af
 
 GitHub Repository: https://github.com/sajid-ahmed0/Rickshaw-Rush-
 
+Live Demo: https://sajid-ahmed0.github.io/Rickshaw-Rush-/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
